@@ -1,0 +1,7 @@
+*.Rproj
+rsconnect/
+.DS_Store
+.Rproj.user/
+.Rproj.user
+*.csv
+*.rda
